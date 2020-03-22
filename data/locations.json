@@ -1,0 +1,179 @@
+﻿{"status":true,"data":[{{
+        "city": "Tunis", 
+        "lat": "36.806112", 
+        "lng": "10.171078", 
+        "population": "2412500"
+    }, 
+    {
+        "city": "Sfax", 
+        "lat": "34.740556", 
+        "lng": "10.760278", 
+        "population": "453050"
+    },  
+{
+        "city": "Hergla", 
+        "lat": "36.0275047", 
+        "lng": "10.4981231",
+        "population": "51408"
+    },
+    {
+        "city": "Gabes", 
+        "lat": "33.881457", 
+        "lng": "10.098196", 
+        "population": "219517"
+    }, 
+    {
+        "city": "Zarzis", 
+        "lat": "33.503981", 
+        "lng": "11.112155", 
+        "population": "159161"
+    }, 
+    {
+        "city": "Kairouan", 
+        "lat": "35.678102", 
+        "lng": "10.096333", 
+        "population": "144522"
+    }, 
+    {
+        "city": "Bizerte", 
+        "lat": "37.274423", 
+        "lng": "9.87391", 
+        "population": "139843"
+    }, 
+    {
+        "city": "Gafsa", 
+        "lat": "34.425", 
+        "lng": "8.784167", 
+        "population": "126803"
+    }, 
+    {
+        "city": "Nabeul",  
+        "lat": "36.456058", 
+        "lng": "10.73763", 
+        "population": "115149"
+    }, 
+    {
+        "city": "Ariana", 
+        "lat": "36.860117", 
+        "lng": "10.193371", 
+        "population": "97687"
+    }, 
+    {
+        "city": "Kasserine", 
+        "lat": "35.167578", 
+        "lng": "8.836506", 
+        "population": "81987"
+    }, 
+    {
+        "city": "Mnara", 
+        "lat": "35.697731", 
+        "lng": "10.781591", 
+        "population": "71546"
+    }, 
+    {
+        "city": "Tataouine", 
+        "lat": "32.929674", 
+        "lng": "10.451767", 
+        "population": "62577"
+    }, 
+    {
+        "city": "Beja", 
+        "lat": "36.725638", 
+        "lng": "9.181692", 
+        "population": "59567"
+    }, 
+    {
+        "city": "Jendouba", 
+        "lat": "36.501136", 
+        "lng": "8.780239", 
+        "population": "51408"
+    }, 
+    {
+        "city": "El Kef",  
+        "lat": "36.174239", 
+        "lng": "8.704863", 
+        "population": "47979"
+    }, 
+    {
+        "city": "Mahdia", 
+        "lat": "35.504722", 
+        "lng": "11.062222", 
+        "population": "45977"
+    }, 
+    {
+        "city": "Sidi Bouzid", 
+        "lat": "35.038234", 
+        "lng": "9.484935", 
+        "population": "42098"
+    }, 
+    {
+        "city": "Tozeur",  
+        "lat": "33.919683", 
+        "lng": "8.13352", 
+        "population": "39504"
+    }, 
+    {
+        "city": "Siliana", 
+        "lat": "36.084966", 
+        "lng": "9.370818", 
+        "population": "26960"
+    }, 
+    {
+        "city": "Kebili", 
+        "lat": "33.704387", 
+        "lng": "8.969034", 
+        "population": "19875"
+    }, 
+    {
+        "city": "Ben Gardane", 
+        "lat": "33.13783", 
+        "lng": "11.219649", 
+        "population": "19843"
+    }, 
+    {
+        "city": "Zaghouan", 
+        "population": "16911"
+    }, 
+    {
+        "city": "Dehiba", 
+        "lat": "32.007992", 
+        "lng": "10.701353", 
+        "population": "3525"
+    },
+{
+        "city": "Msaken", 
+        "lat": "35.7254449", 
+        "lng": "10.5471319 ", 
+        "population": "674 971"
+    }, 
+ 
+    {
+        "city": "Sousse", 
+        "lat": "35.825388", 
+        "lng": "10.636991", 
+        "population": "674 971"
+    }, 
+    {
+        "city": "Ben Arous", 
+        "lat": "36.753056", 
+        "lng": "10.218889", 
+        "population": "712 172"
+    }, 
+    {
+        "city": "Medenine", 
+        "lat": "33.354947", 
+        "lng": "10.505478", 
+        "population": "479 520"
+    }, 
+    {
+        "city": "Manouba",  
+        "lat": "36.808029", 
+        "lng": "10.097205", 
+        "population": "379 518"
+    }, 
+    {
+        "city": "Monastir", 
+        "lat": "35.783333", 
+        "lng": "10.833333", 
+        "population": "4562 "
+    }]}
